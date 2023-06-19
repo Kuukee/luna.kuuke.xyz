@@ -1,0 +1,14 @@
+@font-face {
+    font-family: "Basiic";
+    src: url("/basiic.ttf");
+}
+
+:root {
+    font-family: "Basiic";
+    background-color: #ffcff0;
+}
+
+.title, pre {
+    align-content: center;
+    text-align: center;
+}
